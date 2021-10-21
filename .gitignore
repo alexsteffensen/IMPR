@@ -1,3 +1,6 @@
+#MacOS things
+*.DS_Store
+
 # Prerequisites
 *.d
 
